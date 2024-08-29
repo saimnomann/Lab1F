@@ -1,0 +1,9 @@
+1) Start
+2)Remove all socks from the Drawer
+3)Pick one socks
+4)Check it with its other pair
+5)If it matches put it back in drawer and in one section 
+6)place in ascending order
+7)Repeat Step 3
+8)Until 12 socks pair have been placed
+9)End
